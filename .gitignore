@@ -1,0 +1,7 @@
+/netboy
+dist/
+vendor/
+coverage.out
+*.sarif
+.env
+.env.*
