@@ -1,5 +1,7 @@
 # netboy 🤠
 
+[![jaga](https://jaga-card.vercel.app/api/badge?owner=Emil-02&repo=netboy)](https://jaga-card.vercel.app/r/Emil-02/netboy)
+
 **Fast, zero-dependency network reconnaissance and security audit CLI for developers & sysadmins.** One Go binary, no root required for basic scans, no external C libraries or libpcap needed.
 
 [![CI](https://github.com/Emil-02/netboy/actions/workflows/ci.yml/badge.svg)](https://github.com/Emil-02/netboy/actions/workflows/ci.yml)

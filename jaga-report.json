@@ -1,0 +1,1 @@
+{"root":"/home/amboyy/Proyek/netboy","score":100,"generated_at":"2026-11-20T15:46:45Z","results":[{"name":"hygiene","status":"pass","severity":"low","findings":[]},{"name":"pii","status":"pass","severity":"high","findings":[]},{"name":"secret","status":"pass","severity":"critical","findings":[]}]}
