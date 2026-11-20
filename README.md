@@ -8,7 +8,7 @@
 
 🇮🇩 [Baca dalam Bahasa Indonesia](README.id.md)
 
-> **Using an AI coding agent?** Install [`jaga-skill`](https://github.com/Emil-02/jaga-skill) with `npx jaga-skill init` — a gate that stops the agent before commit/deploy when secrets or personal data are detected.
+> **Using an AI coding agent?** Install [`jaga-skill`](https://github.com/Emil-02/jaga/tree/main/skills/jaga-skill) with `npx jaga-skill init` — a gate that stops the agent before commit/deploy when secrets or personal data are detected.
 
 ```console
 $ netboy scan

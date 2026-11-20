@@ -7,7 +7,7 @@
 
 🇬🇧 [Read in English](README.md)
 
-> **Menggunakan AI coding agent?** Pasang [`jaga-skill`](https://github.com/Emil-02/jaga-skill) dengan `npx jaga-skill init` — gerbang pengaman yang menghentikan agen AI sebelum melakukan commit/deploy saat terdeteksi kredensial rahasia atau data pribadi.
+> **Menggunakan AI coding agent?** Pasang [`jaga-skill`](https://github.com/Emil-02/jaga/tree/main/skills/jaga-skill) dengan `npx jaga-skill init` — gerbang pengaman yang menghentikan agen AI sebelum melakukan commit/deploy saat terdeteksi kredensial rahasia atau data pribadi.
 
 ```console
 $ netboy scan
